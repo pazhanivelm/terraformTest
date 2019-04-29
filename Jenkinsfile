@@ -1,6 +1,10 @@
 agent master
 
 
+
+
+
+
 pipeline{
   stages{
     stage('test'){
