@@ -10,7 +10,10 @@ pipeline {
     stages{
         stage('checkout SCM'){
             steps{
-		echo "Bravo! I wan dadd more"
+
+
+		echo "Bravo! yaar"
+
                    }
             }
         }
